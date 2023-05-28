@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvBy.Automation.UI.Tests", "AvBy.Automation.UI.Tests\AvBy.Automation.UI.Tests.csproj", "{570B23D5-5D0A-45EC-AFFA-7DF7DD4E16C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvBy.Automation.Common", "AvBy.Automation.Common\AvBy.Automation.Common.csproj", "{AF66C0F1-FC23-461C-86A9-0CEB8E6EB7F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvBy.Automation.Common", "AvBy.Automation.Common\AvBy.Automation.Common.csproj", "{AF66C0F1-FC23-461C-86A9-0CEB8E6EB7F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
